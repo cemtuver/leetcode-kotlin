@@ -12,6 +12,6 @@ $ brew install kotlin
 Compile the source code using Kotlin command-line compiler and then run the output jar using Java.
 
 ```
-$ kotlinc X.kt -include-runtime -d X.jar
-$ java -jar X.jar
+$ kotlinc XXX.kt -include-runtime -d XXX.jar
+$ java -jar XXX.jar
 ```
