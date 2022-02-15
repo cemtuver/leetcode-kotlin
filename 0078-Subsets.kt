@@ -11,9 +11,8 @@ class Solution {
         
         return result
     }
-    
-}
 
+}
 
 fun main() {
     val solution = Solution()
