@@ -12,7 +12,7 @@ class Solution {
         while (right < s.length) {
             val char = s[right]
 
-            if (occurenceSet.contains(char)) {                
+            if (occurenceSet.contains(char)) {
                 occurenceSet.remove(s[left])
                 left++
             } else {
