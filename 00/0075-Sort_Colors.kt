@@ -28,7 +28,6 @@ class Solution {
 
 }
 
-
 fun main() {
     val solution = Solution()
     val input = intArrayOf(2, 0, 2, 1, 1, 0)
